@@ -1,0 +1,42 @@
+[
+  {
+    "id": "beginning",
+    "number": "I",
+    "name": "初識",
+    "english": "The First Encounter",
+    "range": "01—08",
+    "description": "最初的距離，與尚未學會彼此呼吸的節奏。"
+  },
+  {
+    "id": "notation",
+    "number": "II",
+    "name": "樂理",
+    "english": "In Between Notes",
+    "range": "09—16",
+    "description": "速度、力度與停頓。那些說不出口的心意，都藏在樂句裡。"
+  },
+  {
+    "id": "rehearsal",
+    "number": "III",
+    "name": "磨合",
+    "english": "Finding Our Tempo",
+    "range": "17—24",
+    "description": "失誤、重來與逐漸習慣的默契，從來不會一蹴可幾。"
+  },
+  {
+    "id": "repertoire",
+    "number": "IV",
+    "name": "經典曲目",
+    "english": "A Shared Repertoire",
+    "range": "25—32",
+    "description": "借八首真實的四手聯彈作品，寫下屬於兩人的故事。"
+  },
+  {
+    "id": "finale",
+    "number": "V",
+    "name": "終曲",
+    "english": "After the Last Note",
+    "range": "33—40",
+    "description": "當掌聲結束，還有誰願意坐在琴椅的另一半？"
+  }
+]
